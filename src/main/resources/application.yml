@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: temp-processing
+
+server:
+  port: 8081

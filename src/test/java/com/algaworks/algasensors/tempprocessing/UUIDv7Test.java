@@ -1,5 +1,7 @@
 package com.algaworks.algasensors.tempprocessing;
 
+import com.algaworks.algasensors.tempprocessing.common.IdGenerator;
+import com.algaworks.algasensors.tempprocessing.common.UUIDv7Utils;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
